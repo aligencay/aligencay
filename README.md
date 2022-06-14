@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
+<img src="https://wakatime.com/badge/user/ca871ca0-85a6-4f2f-9772-f4d09c5df88b.svg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aligencay&label=Profile%20views&color=0e75b6&style=flat" alt="aligencay" /> </p>
 
