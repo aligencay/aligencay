@@ -2,6 +2,7 @@
 <h3 align="center">A passionate developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aligencay&label=Profile%20views&color=0e75b6&style=flat" alt="aligencay" /> </p>
+<div align="center"><img src="https://wakatime.com/badge/user/ca871ca0-85a6-4f2f-9772-f4d09c5df88b.svg"/></div>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
